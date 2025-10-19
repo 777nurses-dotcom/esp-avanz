@@ -117,7 +117,7 @@
     </div>
 
     <!-- Franja verde -->
-     <a href="https://avanz-inscripciongratuita-650f39469cd0.herokuapp.com/">
+     <a href="https://beneficios-avanz-com-22e70ae480e1.herokuapp.com/">
     <div class="masa3">
       <img src="img/icon-login.png" alt="Ícono login" />
       </a>
@@ -130,7 +130,7 @@
       </p>
       <img class="centered-icon" src="img/icono_avanz_movil.png" alt="Ícono móvil" />
       <center>
-<a href="https://avanz-inscripciongratuita-650f39469cd0.herokuapp.com/">
+<a href="https://beneficios-avanz-com-22e70ae480e1.herokuapp.com/">
     <img style="width: 220px; margin-top: 30px;" src="img/boton.png" alt="">
     </a>
 </center>
@@ -144,7 +144,6 @@
   </div>
 </body>
 </html>
-
 
 
 
